@@ -1,6 +1,7 @@
 # Hello-Word-Test
 Hello Word with C
-#include <stdio.h>
+
+\n#include <stdio.h>
 
 int main(int argc, char *argv[])
 {
